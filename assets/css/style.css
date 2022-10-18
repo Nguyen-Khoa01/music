@@ -495,8 +495,7 @@
     margin-right: 0.8rem; 
 }
 .body__playlist-avatar{
-
-    background: url(/assets/img/logo/playlist.png) center/ 100% no-repeat;
+    background: url(https://photo-zmp3.zmdcdn.me/album_default.png) center/ 100% no-repeat;
     width: 206px;
     height: 206px;
     margin: 1.6rem 0 1rem;
@@ -719,7 +718,7 @@
     display: none !important;
 }
 .music__songs-heading-animation {
-    background: url(/assets/img/GIF/icon-playing.gif) 50% / cover no-repeat;
+    background:url(https://zmp3-static.zmdcdn.me/skins/zmp3-v6.1/images/icons/icon-playing.gif) 50% / cover no-repeat;
     width: 20px;
     height: 20px;
     position: absolute;
