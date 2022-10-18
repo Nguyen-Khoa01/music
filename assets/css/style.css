@@ -1,6 +1,6 @@
 .app{
     overflow: hidden;
-    background: url(/assets/img/background/zma.svg);
+    background-image: url(https://zmp3-static.zmdcdn.me/skins/zmp3-v6.1/images/theme-background/zma.svg);
     display: flex;
 }
 
