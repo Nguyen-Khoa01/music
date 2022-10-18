@@ -52,109 +52,109 @@ const app = {
         {
              name: "Vì mẹ anh bắt chia tay",
              singer: "Miu Lê",
-             path: "/assets/music/bai1.mp3",
-             image: "/assets/img/individual/9d9648688a40aecb85f8b70ebe21e82e.webp",
+             path: "./assets/music/bai1.mp3",
+             image: "./assets/img/individual/9d9648688a40aecb85f8b70ebe21e82e.webp",
              timeEnd:'04:22',
              isHeart:false
         },
         {
             name: "Ngôi Sao Cô Đơn",
             singer: "Jack-J97",
-            path: "/assets/music/bai2.mp3",
-            image: "/assets/img/individual/bai2.webp",
+            path: "./assets/music/bai2.mp3",
+            image: "./assets/img/individual/bai2.webp",
             timeEnd:'04:44',
             isHeart:false
         },
         {
             name: "Dằm Trong Tim",
             singer: "Suni Hạ Linh,TDK",
-            path: "/assets/music/bai3.mp3",
-            image: "/assets/img/individual/bai3.webp",
+            path: "./assets/music/bai3.mp3",
+            image: "./assets/img/individual/bai3.webp",
             timeEnd:'03:50',
             isHeart:false
         },
         {
             name: "Xích them chút nữa",
             singer: "GREY-D",
-            path: "/assets/music/bai4.mp3",
-            image: "/assets/img/individual/bai4.webp",
+            path: "./assets/music/bai4.mp3",
+            image: "./assets/img/individual/bai4.webp",
             timeEnd:'03:21'
         },
         {
             name: "Anh sẽ Đón Em",
             singer: "Nguyên, Trang",
-            path: "/assets/music/bai5.mp3",
-            image: "/assets/img/individual/bai5.webp",
+            path: "./assets/music/bai5.mp3",
+            image: "./assets/img/individual/bai5.webp",
             timeEnd:'03:08'
         },
         {
             name: "Muộn rồi mà sao còn",
             singer: "Sơn tùng M-TP",
-            path: "/assets/music/bai6.mp3",
-            image: "/assets/img/individual/bai6.webp",
+            path: "./assets/music/bai6.mp3",
+            image: "./assets/img/individual/bai6.webp",
             timeEnd:'04:35'
         },
         {
             name: "Chúng ta của hiện tại",
             singer: "Nghĩa,CM1X",
-            path: "/assets/music/bai7.mp3",
-            image: "/assets/img/individual/bai7.webp",
+            path: "./assets/music/bai7.mp3",
+            image: "./assets/img/individual/bai7.webp",
             timeEnd:'03:20'
         },  
         {
             name: "Rồi tới luôn",
             singer: "Nal",
-            path: "/assets/music/bai8.mp3",
-            image: "/assets/img/individual/bai8.webp",
+            path: "./assets/music/bai8.mp3",
+            image: "./assets/img/individual/bai8.webp",
             timeEnd:'05:38'
         },
         {
             name: "Yêu đương khó quá thì chạy về khóc với anh ",
             singer: "ERIK",
-            path: "/assets/music/bai9.mp3",
-            image: "/assets/img/individual/bai9.webp",
+            path: "./assets/music/bai9.mp3",
+            image: "./assets/img/individual/bai9.webp",
             timeEnd:'03:43'
         },
         {
             name: "Có hẹn Với Thanh Xuân",
             singer: "Suni Hạ Linh",
-            path: "/assets/music/bai10.mp3",
-            image: "/assets/img/individual/bai10.webp",
+            path: "./assets/music/bai10.mp3",
+            image: "./assets/img/individual/bai10.webp",
             timeEnd:"03:42"
         },
         {
             name: "Em là nhất",
             singer: "kis,Hoàng Kaylee",
-            path: "/assets/music/bai11.mp3",
-            image: "/assets/img/individual/bai11.webp",
+            path: "./assets/music/bai11.mp3",
+            image: "./assets/img/individual/bai11.webp",
             timeEnd:"03:42"
         },
         {
             name: "Lạc vài trong mơ",
             singer: "SimonC,WUY",
-            path: "/assets/music/bai12.mp3",
-            image: "/assets/img/individual/bai12.webp",
+            path: "./assets/music/bai12.mp3",
+            image: "./assets/img/individual/bai12.webp",
             timeEnd:"03:42"
         },
         {
             name: "Hai phút hơn",
             singer: "Pháo,CM1X",
-            path: "/assets/music/bai13.mp3",
-            image: "/assets/img/individual/bai13.webp",
+            path: "./assets/music/bai13.mp3",
+            image: "./assets/img/individual/bai13.webp",
             timeEnd:"03:42"
         },
         {
             name: "Nàng Thơ",
             singer: "Hoàng Dũng ",
-            path: "/assets/music/bai14.mp3",
-            image: "/assets/img/individual/bai14.webp",
+            path: "./assets/music/bai14.mp3",
+            image: "./assets/img/individual/bai14.webp",
             timeEnd:"03:42"
         },
         {
             name: "See Tình",
             singer: "Hoàng thùy linh",
-            path: "/assets/music/bai15.mp3",
-            image: "/assets/img/individual/bai15.webp",
+            path: "./assets/music/bai15.mp3",
+            image: "./assets/img/individual/bai15.webp",
             timeEnd:"03:42"
         },
         
